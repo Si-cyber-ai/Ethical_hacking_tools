@@ -1,3 +1,4 @@
+print("==============================Password Complexity Checker====================================")
 import re
 
 # Function to check password strength
